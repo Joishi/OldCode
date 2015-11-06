@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildTeachingTool", "ChildTeachingTool\ChildTeachingTool\ChildTeachingTool.csproj", "{D3DC26E9-7B6F-4F97-8F0B-0FF58646D1D2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ChildTeachingToolContent", "ChildTeachingTool\ChildTeachingToolContent\ChildTeachingToolContent.contentproj", "{DEC956E5-2AFF-4E6F-B904-3F64A8D6F6F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DC26E9-7B6F-4F97-8F0B-0FF58646D1D2}.Debug|x86.ActiveCfg = Debug|x86
+		{D3DC26E9-7B6F-4F97-8F0B-0FF58646D1D2}.Debug|x86.Build.0 = Debug|x86
+		{D3DC26E9-7B6F-4F97-8F0B-0FF58646D1D2}.Release|x86.ActiveCfg = Release|x86
+		{D3DC26E9-7B6F-4F97-8F0B-0FF58646D1D2}.Release|x86.Build.0 = Release|x86
+		{DEC956E5-2AFF-4E6F-B904-3F64A8D6F6F1}.Debug|x86.ActiveCfg = Debug|x86
+		{DEC956E5-2AFF-4E6F-B904-3F64A8D6F6F1}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
